@@ -1,6 +1,3 @@
-//محمدصالح صدیقی
-//811901072
-
 #include <iostream>
 #include <list>
 #include <queue>
